@@ -1,0 +1,60 @@
+body {
+    color: #7581a1;
+    font-size: 16px;
+    font-style: regular;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 26px;
+}
+a {
+    text-decoration: none;
+}
+h1 {
+    color: #192b59;
+    font-size: 80px;
+    font-weight: 600;
+    font-style: semibold;
+}
+.nav {
+    color: #6e7ea9;
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+.btn-free {
+    background-color: #1085e4; 
+    color: #fff;
+    font-size: 12px;
+    font-style: regular;
+    font-weight: 400;
+}
+.grid h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-style: bold;
+    font-weight: 700;
+}
+.grid h2 span {
+    color: #1085e4;
+    font-size: 14px;
+    font-style: extrabold;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+
+}
+.grid-item h3 {
+    color: #192b59;
+    font-size: 20px;
+    font-style: semibold;
+    font-weight: 600;
+
+}
+.grid-item a {
+    color: #1085e4;
+    font-size: 14px;
+    font-style: semibold;
+    font-weight: 600;
+
+}
