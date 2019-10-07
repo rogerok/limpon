@@ -56,5 +56,126 @@ h1 {
     font-size: 14px;
     font-style: semibold;
     font-weight: 600;
+}
+.grid-item span {
+    color: #192b59;
+    font-size: 16px;
+    font-style: bold;
+    font-weight: 700;
 
+}
+.page-subscribe h2 {
+    color: #fff;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600;
+}
+.page-subscribe h2 span {
+    color: #1085e4;
+    font-size: 14px;
+    font-style: extrabold;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+
+}
+.page-subscribe p {
+    color:#dfe8ff;
+    font-size: 18px;
+    font-style: regular;
+    font-weight: 400;
+}
+.page-subscribe button {
+    color: #fff;
+    font-size: 14px;
+    font-style: bold;
+    font-weight: 700;
+}
+.page-software h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600;
+
+}
+.page-software dt {
+    color: #5a6789;
+    font-size: 16px;
+    font-style: bold;
+    font-weight: 700;
+
+}
+.page-stat h2 span {
+    color: #1085e4;
+    font-size: 16px;
+    font-style: extrabold;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
+
+}
+.page-stat h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600;
+}
+.page-stat li {
+    color: #1085e4;
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+}
+.page-stat li span {
+    color: #bacbdc;
+    font-size: 60px;
+    font-style: bold;
+    font-weight: 700;
+
+}
+.page-app h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600;
+}
+.page-analytics h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600
+}
+.page-analytics a {
+    color: #fff;
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.page-analytics2 h2 {
+    color: #192b59;
+    font-size: 50px;
+    font-style: semibold;
+    font-weight: 600
+}
+.page-analytics2 a {
+    color: #fff;
+    font-size: 12px;
+    font-style: bold;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.page-screen h2 {
+    color: #192b59;
+    font-size: 40px;
+    font-style: semibold;
+    font-weight: 600;
+}
+.page-screen h2 span {
+    color: #1085e4;
+    font-size: 18px;
+    font-style: extrabold;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: block;
 }
