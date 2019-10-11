@@ -20,7 +20,40 @@ h1 {
     font-style: bold;
     font-weight: 700;
     text-transform: uppercase;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     
+}
+.btn-primary {
+    background-color: #1085e4;
+    border: 1px solid #1085e4;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+.btn-primary:hover {
+    background-color: #fff;
+    color: #1085e4;
+
+}
+.btn-secondary {
+    background-color: #cbdbe8;
+    border: 1px solid #cbdbe8;
+    color: #7e8bae;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    padding: 20px 40px;
+    border-radius: 30px;
+}
+.btn-secondary:hover {
+    background-color: #fff;
 }
 .btn-free {
     background-color: #1085e4; 
@@ -28,6 +61,27 @@ h1 {
     font-size: 12px;
     font-style: regular;
     font-weight: 400;
+    padding: 21px 56px;
+    letter-spacing: 1.7px;
+}
+.btn-group a+a{
+    margin-left:15px;
+}
+.btn-info {
+    background-color: transparent;
+    border: 1px solid #dce1e5;
+    color: #8085b1;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 2.5px;
+    padding: 20px 40px;
+    border-radius: 30px;
+
+}
+.btn-info:hover {
+    background-color: #fff;
+
 }
 .grid h2 {
     color: #192b59;
